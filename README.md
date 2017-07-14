@@ -18,10 +18,10 @@ Setting up models was easy and familiar because of past experience with Rails an
 The biggest conceptual hurdle I had while learning is maintaining loose coupling. Starting out, I was hard coding Urls that would create tight coupling. 
 
 What resources do you recommend for interested students?
-*For setting up virtual environment: https://virtualenv.pypa.io/en/stable/userguide/
-*For installing Django: https://docs.djangoproject.com/en/1.8/topics/install/#installing-official-release
-*For installing Python 3: https://www.python.org/downloads/
-*Build tutorial: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+* For setting up virtual environment: https://virtualenv.pypa.io/en/stable/userguide/
+* For installing Django: https://docs.djangoproject.com/en/1.8/topics/install/#installing-official-release
+* For installing Python 3: https://www.python.org/downloads/
+* Build tutorial: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
     
 ### What are 3 interview questions one might be asked about this technology?
 
