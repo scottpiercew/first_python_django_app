@@ -1,0 +1,11 @@
+<!-- this is a custom template made by copying Django's template /base_site.html and changing the header  -->
+
+{% extends "admin/base.html" %}
+
+{% block title %}{{ title }} | {{ site_title|default:_('Django site admin') }}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name"><a href="{% url 'admin:index' %}">Python + Django is Awesome (now time for polls app)</a></h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
